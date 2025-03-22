@@ -1,0 +1,6 @@
+# activity.config.yml
+repo: dxbae-dev/dxbae-dev
+sort_by: updated_at
+max: 5
+exclude:
+  - dxbae-dev/dxbae-dev
